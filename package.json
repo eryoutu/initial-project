@@ -1,0 +1,19 @@
+{
+  "name": "@er/initial-project",
+  "version": "1.0.0-alpha.0",
+  "description": "初始项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eryoutu/initial-project.git"
+  },
+  "author": "eryoutu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eryoutu/initial-project/issues"
+  },
+  "homepage": "https://github.com/eryoutu/initial-project#readme"
+}
